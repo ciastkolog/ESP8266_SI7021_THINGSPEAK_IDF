@@ -1,0 +1,5 @@
+# ignore all logs
+build/ 
+.cproject
+.project
+.settings/
